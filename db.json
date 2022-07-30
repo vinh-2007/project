@@ -1,0 +1,25 @@
+{
+    "moto":[
+    {
+    "Name": "Suzuki 2022",
+    "Price": 31.545,
+    "Des": "entley Motors Limited cũng là một thương hiệu siêu xe đến từ Anh Quốc. Được thành lập vào ngày 18 -01-1919 bởi Walter Owen Bentley,...",
+    "image": "suzuki2022",
+    "id": "1"
+    },
+    {
+    "Name": "BMW 2022",
+    "Price": 152.545,
+    "Des": "Hiện nay xe Môtô PKL BMW Motorrad mới 2022 được Thaco phân phối chính hãng tại Việt Nam. Những mẫu xe của BMW Motorrad do Công ty Cổ ...",
+    "image": "bmw2022",
+    "id": "2"
+    },
+    {
+    "Name": "Kawasaki 2022",
+    "Price": 142.545,
+    "Des": "Kawasaki là được đánh giá cao ở thị trường Việt Nam nhờ những mẫu xe phân khối lớn với ngoại hình “hầm hố” cùng khối động cơ mạnh mẽ ...",
+    "image": "kawasaki2022",
+    "id": "3"
+    }
+ ]
+} 
